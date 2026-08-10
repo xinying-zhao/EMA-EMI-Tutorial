@@ -29,3 +29,8 @@ Thumbs.db
 
 # Obsidian配置
 .obsidian/
+*.pdf
+*.pptx
+EMA books/
+EMA_papers/
+.DS_Store
