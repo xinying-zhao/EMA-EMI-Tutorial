@@ -102,25 +102,25 @@ graph TB
 
 ### 1. 核心方法学专著
 
-- **The Open Handbook of Experience Sampling Methodology** (2021)
+- **[The Open Handbook of Experience Sampling Methodology](https://www.kuleuven.be/samenwerking/real/real-book)** (2021)
   - *作者*: Myin-Germeys, I., & Kuppens, P.
   - *简介*: ESM 领域的最新开源手册，全面覆盖了从设计到分析的各个环节。
-- **Handbook of Research Methods for Studying Daily Life** (2011)
+- **[Handbook of Research Methods for Studying Daily Life](https://www.guilford.com/books/Handbook-of-Research-Methods-for-Studying-Daily-Life/Mehl-Conner/9781462513055)** (2011)
   - *作者*: Mehl, M. R., & Conner, T. S.
   - *简介*: 涵盖日常生活研究方法的经典著作，探讨了多种密集型纵向数据收集技术。
-- **The Science of Real-Time Data Capture: Self-Reports in Health Research** (2007)
+- **[The Science of Real-Time Data Capture: Self-Reports in Health Research](https://global.oup.com/academic/product/the-science-of-real-time-data-capture-9780195178715)** (2007)
   - *作者*: Stone, A. A., Shiffman, S., Atienza, A. A., & Nebeling, L.
   - *简介*: 深入探讨实时数据采集（EMA）在临床医学与健康研究中的应用。
-- **Experience Sampling Method: Measuring the Quality of Everyday Life** (2007)
+- **[Experience Sampling Method: Measuring the Quality of Everyday Life](https://methods.sagepub.com/book/experience-sampling-method)** (2007)
   - *作者*: Hektner, J. M., Schmidt, J. A., & Csikszentmihalyi, M.
   - *简介*: 详细介绍 ESM 的历史沿革、抽样策略与问卷设计方法。
 
 ### 2. 数据分析与多层线性模型 (MLM) 专著
 
-- **Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence** (2003)
+- **[Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence](https://global.oup.com/academic/product/applied-longitudinal-data-analysis-9780195152968)** (2003)
   - *作者*: Singer, J. D., & Willett, J. B.
   - *简介*: 追踪数据分析与多层建模（MLM）的必读经典，对理解 EMA 数据的组内/组间方差有极高指导价值。
-- **An Introduction to Multilevel Modeling Techniques** (2020)
+- **[An Introduction to Multilevel Modeling Techniques](https://www.routledge.com/An-Introduction-to-Multilevel-Modeling-Techniques-MLM-and-SEM-Approaches/Heck-Thomas/p/book/9780367182427)** (2020)
   - *作者*: Heck, R. H., & Thomas, S. L.
   - *简介*: 深入浅出的 MLM 建模技术入门，适合对统计学基础要求较高的读者。
 
@@ -128,8 +128,8 @@ graph TB
 
 *提示：研究者可检索以下经典文献以深入了解 EMA/ESM 在特定领域的理论演进与实证应用。*
 
-- Csikszentmihalyi, M., & Larson, R. (1987). Validity and reliability of the experience-sampling method.
-- Shiffman, S., Stone, A. A., & Hufford, M. R. (2008). Ecological momentary assessment. *Annual review of clinical psychology*.
-- Trull, T. J., & Ebner-Priemer, U. W. (2013). Ambulatory assessment. *Annual review of clinical psychology*.
-- Myin-Germeys, I., Oorschot, M., Collip, D., Lataster, J., Delespaul, P., & van Os, J. (2009). Experience sampling research in psychopathology: opening the black box of daily life. *Psychological medicine*.
-- Russell, M. A., & Gajos, J. M. (2020). Annual Research Review: The Ecology of Daily Life-How Susceptibility to Context Unfolds. *Journal of Child Psychology and Psychiatry*.
+- Csikszentmihalyi, M., & Larson, R. (1987). Validity and reliability of the experience-sampling method. [DOI: 10.1097/00005053-198709000-00004](https://doi.org/10.1097/00005053-198709000-00004)
+- Shiffman, S., Stone, A. A., & Hufford, M. R. (2008). Ecological momentary assessment. *Annual Review of Clinical Psychology*. [DOI: 10.1146/annurev.clinpsy.3.022806.091415](https://doi.org/10.1146/annurev.clinpsy.3.022806.091415)
+- Trull, T. J., & Ebner-Priemer, U. W. (2013). Ambulatory assessment. *Annual Review of Clinical Psychology*. [DOI: 10.1146/annurev-clinpsy-050212-185510](https://doi.org/10.1146/annurev-clinpsy-050212-185510)
+- Myin-Germeys, I., Oorschot, M., Collip, D., Lataster, J., Delespaul, P., & van Os, J. (2009). Experience sampling research in psychopathology: Opening the black box of daily life. *Psychological Medicine*. [DOI: 10.1017/S0033291708004947](https://doi.org/10.1017/S0033291708004947)
+- Russell, M. A., & Gajos, J. M. (2020). Annual Research Review: The ecology of daily life — How susceptibility to context unfolds. *Journal of Child Psychology and Psychiatry*. [DOI: 10.1111/jcpp.13204](https://doi.org/10.1111/jcpp.13204)
